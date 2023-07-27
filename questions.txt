@@ -1,0 +1,31 @@
+ Questão 2: 1 - Eu precisária, ter o entendimento do problema. 
+            2 - faria um monitoramento adequado para o recurso afetado, coletando métricas relevantes, como o uso de CPU, memória, disco e rede, álem de tempo de resposta e lâtencia. 
+            3 - Análisaria também se apresenta alguma mensagem de erro, alertas ou eventos incomuns.
+            4 - Identificaria os padrões nos dados coletados, vendo se a lentidão está associada a hórarios específicos do dia ou atividades específicas.
+            5 - Revisária ás configurações do istema e do software pois configurações inadequadas podem levar a problemas de desempenho.
+            6 - Revisária o Código, caso o recusrso afetado envolva software personalizado ou um sistema de desenvolvimento interno, revise o código relacionado ao recurso para identificar possíveis gargalos, ineficiências ou problemas de otimização.
+            7 - Veria a capacidade do hardware. Verificando se o hardware ou infraestruturas que hospeda o recurso está dimensionado para lidar com a carga de trabalho
+           10 - PROPOSTA DE SOLUÇÃO : Com base nas investigações feitas, na infomações coletadas e identificação da causa da raiz do problema, variámos uma otimização do código, ajustes de configuração ou até mesmo uma atualização de hardware.
+
+ Questão 3: 1 - Eu pediria ao usuário que me forneça informações detalhadas sobre a mensagem de erro que o usuário está recebendo.
+            2 - Tentaria reproduzir o erro em um ambiente de teste ou usando as mesmas condições que o usuário descreveu.
+            3 - Verificaria os registros do sistema ou do aplicativo em busca de mensagens de erro.
+            4 - Se erro estiver ligado ao sistema de desenvolvimento intern, revisária o código para identificar possíveis problemas, erro de lógica ou falhas podem estar causando o erro.
+            5 - Faria uma análise de dependências para saber se todas as dependências e bibliotecas do sistema estão atualizadas e funcionando corretamente.
+            6 - Identificar a raíz do problema com base nas informações coletadas. Isso pode envolver  depurara código, revisar  configurações ou analisar dados específicos relacionados ao erro.
+
+ Questão 4: 1 - Registrar detalhes do erro.
+            2 - Verificar reprodução do erro.
+            3 - Analisar ás mensagens de erro.
+            4 - Compreender o fluxo do sistema 
+            5 - Revisar código e configurações 
+            6 - Pesquisar em Bases de conhecimento e comunidades.
+            7 - Isolar a causa do problema.
+            8 - Comunicaria a equipe de desenvolvimento.
+            9 - Desenvolvimento e Testes de solução.
+           10 - Implementação da solução.
+           11 - Teste de validação.
+           12 - Comunicação com o usuário.
+
+    Erros desconhecidos requerem paciência, dedicação e colaboração da equipe para encontrar a causa da raiz do problema. Documentar todo o processo de investigação e solução para facilitar a resolução de problemas semelhantes.
+    
